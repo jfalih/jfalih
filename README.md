@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently use golang, laravel, and lumen for backend, react js for frontend and use react native for android;
 - 🌱 I’m currently learning golang; 
-- 🤔 My interests are with fullstack dev;
+- 🤔 My interests with golang programming language;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via bosspulsa57@gmail.com to reach me.
