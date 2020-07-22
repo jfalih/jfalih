@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Profile views](https://gpvc.arturio.dev/janfalih17)
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=janfalih17&show_icons=true)
 
 Here are some ideas to get you started:
