@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://www.instagram.com/janfalih_/">
+<a href="https://www.instagram.com/jan.falih/">
   <img align="left" alt="Janfalih's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/jan.fadhillah.3">
@@ -9,7 +9,7 @@
 <br>
 <br>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=janfalih17&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=jfalih&show_icons=true)
 
 Here are some ideas to get you started:
 
