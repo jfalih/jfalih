@@ -8,7 +8,8 @@
 
 <br>
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jfalih&theme=dark)](https://git.io/streak-stats)
+
+[![githubstreak](https://streak-stats.demolab.com/?user=jfalih&theme=dark)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
